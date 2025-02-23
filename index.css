@@ -1,0 +1,15 @@
+.card{
+    text-align: center;
+    padding: 5%;
+    
+}
+#img{
+    width: 60%;
+    justify-content: center;
+    margin: auto;
+}
+#h3{
+    padding: 5%;
+}
+
+
